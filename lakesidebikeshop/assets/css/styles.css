@@ -1,0 +1,20 @@
+#abusivemodal .modal-body {
+  background:url('https://c.pxhere.com/photos/3e/b8/panorama_nature_landscape_austria_view_sky_clouds_outlook-790661.jpg!d');
+  background-repeat:round;
+}
+
+#abusivemodal .modal-dialog {
+  width:95%;
+  max-width:95%;
+  height:95%;
+}
+
+#abusivemodal .modal-dialog .modal-content {
+  height:100%;
+}
+
+.come-on-down {
+  background-color:#ddd;
+  padding:10px;
+}
+

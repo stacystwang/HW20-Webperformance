@@ -1,0 +1,1 @@
+$('#abusivemodal').modal()
